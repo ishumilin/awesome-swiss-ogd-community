@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[English](README.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Rumantsch](README.rm.md)
+
 A curated list of awesome open-source projects, tools, and libraries for working with Swiss Open Government Data (OGD). The aim of this project is to highlight high-quality contributions from individual developers and independent creators that are often missing from other lists.
 
 ## Contents
