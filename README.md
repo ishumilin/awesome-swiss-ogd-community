@@ -1,5 +1,7 @@
 # Awesome Swiss OGD Community
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome open-source projects, tools, and libraries for working with Swiss Open Government Data (OGD). The aim of this project is to highlight high-quality contributions from individual developers and independent creators that are often missing from other lists.
 
 ## Contents
