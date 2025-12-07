@@ -28,6 +28,10 @@ A curated list of awesome open-source projects, tools, and libraries for working
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin for displaying Swiss map tiles.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transform coordinates between the Swiss projected coordinate systems (LV95/LV03) and WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Plot and Save Customised Thematic Swiss Maps with R.
+*   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Scripts for converting coordinates between WGS84 and Swiss LV03.
+*   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - PHP library to convert GPS (WGS84) to Swiss coordinates (LV03/LV95).
+*   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Map component for Blazor with support for swisstopo maps.
+*   **[rnckp/opendata_thematic-mapping](https://github.com/rnckp/opendata_thematic-mapping)** (Python) - Guide and code for thematic mapping with Swiss geodata.
 
 ### Data & Boundaries
 *   **[interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps)** - Swiss geodata as TopoJSON.
@@ -47,6 +51,10 @@ A curated list of awesome open-source projects, tools, and libraries for working
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Thin wrapper around the ZEFIX REST API to search and retrieve company data.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - A python wrapper around the Rest API of the Swiss Postcard creator.
+*   **[OneGov/onegov-cloud](https://github.com/OneGov/onegov-cloud)** (Python) - Powerful open-source web application framework for Swiss municipalities and NGOs.
+*   **[rnckp/starter-code-ktzh](https://github.com/rnckp/starter-code-ktzh)** (Python/R) - Starter code for analyzing CSV datasets from the Statistical Office of Canton Zurich.
+*   **[TrainDelayVisualizer/TrainDelayVisualizer](https://github.com/TrainDelayVisualizer/TrainDelayVisualizer)** (TypeScript) - Application to visualize train delays from opentransportdata.swiss.
+*   **[cevi/automatic_walk-time_tables](https://github.com/cevi/automatic_walk-time_tables)** (Python) - Generates walk-time tables from Swisstopo tracks or GPX files.
 
 ## License
 

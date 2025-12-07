@@ -28,6 +28,10 @@ Ina glista curada da projects, instruments e bibliotecas open-source fantasticas
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin per visualisar teglas da chartas svizras.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transfurmaziun da coordinatas tranter ils sistems da coordinatas projectadas svizras (LV95/LV03) e WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Crear e memorisar chartas svizras tematicas persunalisadas cun R.
+*   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Scripts per convertir coordinatas tranter WGS84 e Svizzer LV03.
+*   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - Biblioteca PHP per convertir GPS (WGS84) en coordinatas svizras (LV03/LV95).
+*   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Cumponenta da chartas per Blazor cun sustegn per chartas swisstopo.
+*   **[rnckp/opendata_thematic-mapping](https://github.com/rnckp/opendata_thematic-mapping)** (Python) - Instrucziun e code per chartas tematicas cun geodatas svizras.
 
 ### Datas & Cunfins
 *   **[interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps)** - Geodatas svizras sco TopoJSON.
@@ -47,6 +51,10 @@ Ina glista curada da projects, instruments e bibliotecas open-source fantasticas
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ è in'API averta per la rimnada da rument da bleras vischnancas svizras.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Wrapper sutil enturn l'API REST ZEFIX per tschertgar e recuperar datas da firmas.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - In wrapper python enturn l'API REST dal creatur da cartas postalas svizras.
+*   **[OneGov/onegov-cloud](https://github.com/OneGov/onegov-cloud)** (Python) - Framework d'applicaziun web open-source pussent per vischnancas svizras ed ONG.
+*   **[rnckp/starter-code-ktzh](https://github.com/rnckp/starter-code-ktzh)** (Python/R) - Code da start per analisar sets da datas CSV da l'Uffizi da statistica dal chantun Turitg.
+*   **[TrainDelayVisualizer/TrainDelayVisualizer](https://github.com/TrainDelayVisualizer/TrainDelayVisualizer)** (TypeScript) - Applicaziun per visualisar il retard da trens da opentransportdata.swiss.
+*   **[cevi/automatic_walk-time_tables](https://github.com/cevi/automatic_walk-time_tables)** (Python) - Generescha tabellas da temp da viadi da tracas Swisstopo u datotecas GPX.
 
 ## Licenza
 

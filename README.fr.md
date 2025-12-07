@@ -28,6 +28,10 @@ Une liste organisée de projets, outils et bibliothèques open-source géniaux p
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin pour afficher les tuiles de cartes suisses.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transformation de coordonnées entre les systèmes de coordonnées suisses (LV95/LV03) et WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Tracer et sauvegarder des cartes suisses thématiques personnalisées avec R.
+*   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Scripts pour convertir les coordonnées entre WGS84 et le système suisse LV03.
+*   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - Bibliothèque PHP pour convertir les coordonnées GPS (WGS84) en coordonnées suisses (LV03/LV95).
+*   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Composant cartographique pour Blazor avec support des cartes swisstopo.
+*   **[rnckp/opendata_thematic-mapping](https://github.com/rnckp/opendata_thematic-mapping)** (Python) - Guide et code pour la cartographie thématique avec des géodonnées suisses.
 
 ### Données & Frontières
 *   **[interactivethings/swiss-maps](https://github.com/interactivethings/swiss-maps)** - Géodonnées suisses au format TopoJSON.
@@ -47,6 +51,10 @@ Une liste organisée de projets, outils et bibliothèques open-source géniaux p
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ est une API ouverte pour la collecte des déchets de nombreuses communes suisses.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Wrapper léger autour de l'API REST ZEFIX pour rechercher et récupérer des données d'entreprise.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - Un wrapper python autour de l'API REST du créateur de cartes postales suisses.
+*   **[OneGov/onegov-cloud](https://github.com/OneGov/onegov-cloud)** (Python) - Framework d'application web open-source puissant pour les communes suisses et les ONG.
+*   **[rnckp/starter-code-ktzh](https://github.com/rnckp/starter-code-ktzh)** (Python/R) - Code de démarrage pour l'analyse des jeux de données CSV de l'Office statistique du canton de Zurich.
+*   **[TrainDelayVisualizer/TrainDelayVisualizer](https://github.com/TrainDelayVisualizer/TrainDelayVisualizer)** (TypeScript) - Application pour visualiser les retards de trains à partir de opentransportdata.swiss.
+*   **[cevi/automatic_walk-time_tables](https://github.com/cevi/automatic_walk-time_tables)** (Python) - Génère des tableaux de temps de marche à partir de traces Swisstopo ou de fichiers GPX.
 
 ## Licence
 
