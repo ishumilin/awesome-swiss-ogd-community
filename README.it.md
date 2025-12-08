@@ -20,6 +20,7 @@ Una lista curata di fantastici progetti, strumenti e librerie open-source per la
 *   **[metaodi/swissparlpy](https://github.com/metaodi/swissparlpy)** (Python) - Wrapper per l'API del Parlamento svizzero per Python.
 *   **[zumbov2/SwissParliamentarySpeeches](https://github.com/zumbov2/SwissParliamentarySpeeches)** (Dati) - Raccolta di discorsi nel Parlamento svizzero dal 1999.
 *   **[zumbov2/votemapswitzerland](https://github.com/zumbov2/votemapswitzerland)** (R) - Una versione svizzera della famosa visualizzazione «Land doesn't vote, people do.»
+*   **[OpenParlData.ch](https://openparldata.ch/)** – L'[API](https://api.openparldata.ch/documentation) offre dati armonizzati su attori politici, atti parlamentari, decreti, consultazioni, votazioni e altro ancora da [78](https://admin.openparldata.ch/#/bodies) parlamenti nazionali, cantonali e comunali.
 
 ## Geosapziale & Mappatura
 

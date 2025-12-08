@@ -20,6 +20,7 @@ Ina glista curada da projects, instruments e bibliotecas open-source fantasticas
 *   **[metaodi/swissparlpy](https://github.com/metaodi/swissparlpy)** (Python) - Wrapper per l'API dal Parlament svizzer per Python.
 *   **[zumbov2/SwissParliamentarySpeeches](https://github.com/zumbov2/SwissParliamentarySpeeches)** (Datas) - Collecziun da discurs en il Parlament svizzer dapi il 1999.
 *   **[zumbov2/votemapswitzerland](https://github.com/zumbov2/votemapswitzerland)** (R) - Ina versiun svizra da la visualisaziun famosa «Land doesn't vote, people do.»
+*   **[OpenParlData.ch](https://openparldata.ch/)** – L'[API](https://api.openparldata.ch/documentation) porscha datas armonisadas davart acturs politics, fatschentas parlamentaras, relaschs, consultaziuns, votaziuns e bler auter da [78](https://admin.openparldata.ch/#/bodies) parlaments naziunals, chantunals e communals.
 
 ## Geodatas & Cartografia
 
