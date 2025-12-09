@@ -23,13 +23,14 @@ To add a new project, please follow these steps:
     *   **Example**: `* **[swiss-maps](https://github.com/interactivethings/swiss-maps)** (TopoJSON) - Swiss geodata as TopoJSON.`
     *   Keep descriptions concise and informative.
     *   Use alphabetical order within categories if possible.
-6.  **Commit and push**:
+6.  **Translations**: If you are comfortable with German, French, Italian, or Romansh, please also add your entry to the respective localized README files (`README.de.md`, `README.fr.md`, etc.). This helps keep the list accessible to a wider audience.
+7.  **Commit and push**:
     ```bash
     git add README.md
     git commit -m "Add Project Name"
     git push origin add-my-project
     ```
-7.  **Open a Pull Request**: Go to the original repository and click "New Pull Request".
+8.  **Open a Pull Request**: Go to the original repository and click "New Pull Request".
 
 ### Guidelines
 
