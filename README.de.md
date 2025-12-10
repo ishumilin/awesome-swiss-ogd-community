@@ -29,6 +29,7 @@ Eine kuratierte Liste grossartiger Open-Source-Projekte, Tools und Bibliotheken 
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin zur Anzeige von Schweizer Kartenkacheln.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transformation von Koordinaten zwischen den Schweizer Koordinatensystemen (LV95/LV03) und WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Erstellen und Speichern von angepassten thematischen Schweizer Karten mit R.
+*   **[davidoesch/swisstopoBatchNmerge](https://github.com/davidoesch/swisstopoBatchNmerge)** (Python) - Werkzeuge zum Herunterladen und Zusammenführen von Swisstopo Open Data.
 *   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Skripte zur Umrechnung von Koordinaten zwischen WGS84 und Schweizer LV03.
 *   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - PHP-Bibliothek zur Umrechnung von GPS (WGS84) in Schweizer Koordinaten (LV03/LV95).
 *   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Kartenkomponente für Blazor mit Unterstützung für swisstopo-Karten.

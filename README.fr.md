@@ -29,6 +29,7 @@ Une liste organisée de projets, outils et bibliothèques open-source géniaux p
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin pour afficher les tuiles de cartes suisses.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transformation de coordonnées entre les systèmes de coordonnées suisses (LV95/LV03) et WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Tracer et sauvegarder des cartes suisses thématiques personnalisées avec R.
+*   **[davidoesch/swisstopoBatchNmerge](https://github.com/davidoesch/swisstopoBatchNmerge)** (Python) - Outils pour télécharger et fusionner les données ouvertes de swisstopo.
 *   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Scripts pour convertir les coordonnées entre WGS84 et le système suisse LV03.
 *   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - Bibliothèque PHP pour convertir les coordonnées GPS (WGS84) en coordonnées suisses (LV03/LV95).
 *   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Composant cartographique pour Blazor avec support des cartes swisstopo.

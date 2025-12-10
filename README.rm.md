@@ -29,6 +29,7 @@ Ina glista curada da projects, instruments e bibliotecas open-source fantasticas
 *   **[rkaravia/Leaflet.TileLayer.Swiss](https://github.com/rkaravia/Leaflet.TileLayer.Swiss)** (JS) - Plugin per visualisar teglas da chartas svizras.
 *   **[rkaravia/swissgrid](https://github.com/rkaravia/swissgrid)** (JS) - Transfurmaziun da coordinatas tranter ils sistems da coordinatas projectadas svizras (LV95/LV03) e WGS 84.
 *   **[zumbov2/RSwissMaps](https://github.com/zumbov2/RSwissMaps)** (R) - Crear e memorisar chartas svizras tematicas persunalisadas cun R.
+*   **[davidoesch/swisstopoBatchNmerge](https://github.com/davidoesch/swisstopoBatchNmerge)** (Python) - Utensils per telechargiar e fusiunar datas aviartas da swisstopo.
 *   **[ValentinMinder/Swisstopo-WGS84-LV03](https://github.com/ValentinMinder/Swisstopo-WGS84-LV03)** (Python) - Scripts per convertir coordinatas tranter WGS84 e Svizzer LV03.
 *   **[antistatique/swisstopo](https://github.com/antistatique/swisstopo)** (PHP) - Biblioteca PHP per convertir GPS (WGS84) en coordinatas svizras (LV03/LV95).
 *   **[lolochristen/OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)** (C#) - Cumponenta da chartas per Blazor cun sustegn per chartas swisstopo.
