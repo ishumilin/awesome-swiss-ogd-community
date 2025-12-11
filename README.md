@@ -50,6 +50,7 @@ A curated list of awesome open-source projects, tools, and libraries for working
 ## Utilities & Services
 
 *   **[OpendataCH/Transport](https://github.com/OpendataCH/Transport)** (PHP) - Swiss public transport API.
+*   **[minderjan/opentransport-client](https://github.com/minderjan/opentransport-client)** (Go) - The OpenTransport Client offers a simplified integration of the Swiss Public Transport API.
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Thin wrapper around the ZEFIX REST API to search and retrieve company data.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - A python wrapper around the Rest API of the Swiss Postcard creator.

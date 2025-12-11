@@ -50,6 +50,7 @@ Ina glista curada da projects, instruments e bibliotecas open-source fantasticas
 ## Utensils & Servetschs
 
 *   **[OpendataCH/Transport](https://github.com/OpendataCH/Transport)** (PHP) - API dal traffic public svizzer.
+*   **[minderjan/opentransport-client](https://github.com/minderjan/opentransport-client)** (Go) - Il client OpenTransport porscha ina integraziun simplifitgada da l'API dal traffic public svizzer.
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ è in'API averta per la rimnada da rument da bleras vischnancas svizras.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Wrapper sutil enturn l'API REST ZEFIX per tschertgar e recuperar datas da firmas.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - In wrapper python enturn l'API REST dal creatur da cartas postalas svizras.

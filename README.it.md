@@ -50,6 +50,7 @@ Una lista curata di fantastici progetti, strumenti e librerie open-source per la
 ## Utilità & Servizi
 
 *   **[OpendataCH/Transport](https://github.com/OpendataCH/Transport)** (PHP) - API dei trasporti pubblici svizzeri.
+*   **[minderjan/opentransport-client](https://github.com/minderjan/opentransport-client)** (Go) - Il client OpenTransport offre un'integrazione semplificata dell'API dei trasporti pubblici svizzeri.
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ è un'API aperta per la raccolta dei rifiuti di molti comuni svizzeri diversi.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Wrapper sottile attorno all'API REST ZEFIX per cercare e recuperare dati aziendali.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - Un wrapper python attorno all'API REST del creatore di cartoline svizzere.

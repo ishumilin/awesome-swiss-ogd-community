@@ -50,6 +50,7 @@ Eine kuratierte Liste grossartiger Open-Source-Projekte, Tools und Bibliotheken 
 ## Dienstprogramme & Services
 
 *   **[OpendataCH/Transport](https://github.com/OpendataCH/Transport)** (PHP) - Schweizer Schnittstelle für den öffentlichen Verkehr.
+*   **[minderjan/opentransport-client](https://github.com/minderjan/opentransport-client)** (Go) - Der OpenTransport Client bietet eine vereinfachte Integration der Schweizer ÖV-API.
 *   **[metaodi/openerz](https://github.com/metaodi/openerz)** (API) - OpenERZ ist eine offene API für die Entsorgungskalender vieler verschiedener Gemeinden in der Schweiz.
 *   **[validitylabs/zefix](https://github.com/validitylabs/zefix)** (TypeScript) - Dünner Wrapper um die ZEFIX REST API zum Suchen und Abrufen von Firmendaten.
 *   **[abertschi/postcard_creator_wrapper](https://github.com/abertschi/postcard_creator_wrapper)** (Python) - Ein Python-Wrapper um die REST-API des Schweizer Postcard Creators.
